@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	int i,j,n=100,a[5],key,loopCounter=0,swapCounter=0,compCounter=0;
+	int i,j,n=100,a[100],key,loopCounter=0,swapCounter=0,compCounter=0;
 	clock_t startTime,endTime;
 	startTime=clock();
 	cout<<"Enter the elements \n";
