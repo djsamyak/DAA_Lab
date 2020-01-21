@@ -13,6 +13,7 @@ int main()
 	for(i=0;i<n;++i)
 	{
 		a[i]=rand()%1000;
+	//	cin>>a[i];
 	}
 	cout<<"\nThe entered elements are: \n";
 	for(int i=0;i<n;++i)
